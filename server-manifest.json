@@ -1,7 +1,7 @@
 {
   "name": "Prehistoric World - MC 1.20.1",
   "author": "mortar",
-  "version": "1.0",
+  "version": "1.1",
   "description": "",
   "fileApi": "https://www.landmine.top/mc/PrehistoricWorld",
   "files": [
@@ -855,7 +855,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "26a3c288b89eb97907f6909599e34c44be9fd782"
+      "hash": "87f7a76c766fd4bc0b02cb455ea545e0ed191231"
     },
     {
       "path": "config/fallingleaves-client.toml",
@@ -1967,7 +1967,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "a473054bfbafe483856d7eb72952458761fcaeb9"
+      "hash": "c5b676853fc957b426244c9333efded8a8e77de1"
     },
     {
       "path": "config/overclocked_watches.toml",
@@ -2091,11 +2091,11 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "fcbe8e2b1b7036d3b568879b266b4b2c19efbe81"
+      "hash": "1d4a0782a3012aa5b7f9df33194ccb083172724f"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "3b9f26c1304ed7738032bc23ce1011f2e21a1337"
+      "hash": "e6a1e7e3836ff340e8de0e2c08a8a0806efcb24c"
     },
     {
       "path": "config/sound_physics_remastered/soundphysics.properties",
@@ -2455,7 +2455,7 @@
     },
     {
       "path": "config/xenon-options.json",
-      "hash": "236fe0211ca942bbc0aa171ef16ffe61096d8885"
+      "hash": "b465d78f5503979de95799ff967ccacd9910feb7"
     },
     {
       "path": "defaultconfigs/ftblibrary/ftblibrary-client.snbt",
@@ -2471,7 +2471,7 @@
     },
     {
       "path": "fancymenu_data/last_world.fmdata",
-      "hash": "d5253e1a9a179309e9c1852cb43f53da65e76b02"
+      "hash": "96ff7d74bca24313bccc51c3dc9c398644229c4c"
     },
     {
       "path": "journeymap/config/5.10/journeymap.core.config",
@@ -2483,7 +2483,7 @@
     },
     {
       "path": "journeymap/config/5.10/journeymap.minimap.config",
-      "hash": "81bae9f197c1fd81b83df6151529a29a8dc49895"
+      "hash": "1c5e3be1de3454a3ecac4221c7141644a7858294"
     },
     {
       "path": "journeymap/config/5.10/journeymap.minimap2.config",
@@ -2604,6 +2604,54 @@
     {
       "path": "journeymap/data/mp/offline/overworld/night/-1,0.png",
       "hash": "810885f124c2476f40cca5b6b6d46ac43b766500"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/biome/0,-1.png",
+      "hash": "85d9027102d15852282219f8c1d4002fc30d763f"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/biome/1,-1.png",
+      "hash": "89a8224df4e60adc8d06696758d19196abe8debc"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/cache/r.0.-1.mca",
+      "hash": "191ada3ce43db9e3bab1b772a7d2ce7cdae3b631"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/cache/r.1.-1.mca",
+      "hash": "279321cd58f4ea25afa1db909e4951fb37e65842"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/day/0,-1.png",
+      "hash": "016b33f25f870b6b93ca6d9b14d0f5c91c24cbe5"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/day/1,-1.png",
+      "hash": "e0116f2edf49fed285c6f549a15bb45c064d633b"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/night/0,-1.png",
+      "hash": "51bdbb081bc037f54eadcee4f1f277b035fdacc0"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/night/1,-1.png",
+      "hash": "083338b7bdfa13fa440553492d372434a143a9f3"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/topo/0,-1.png",
+      "hash": "8fddff21d564553bcc92dff98c92dce92d635189"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/topo/1,-1.png",
+      "hash": "eef371f7c76fc7a789578afeb50d0f7a3b43fc46"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/topo/cache/r.0.-1.mca",
+      "hash": "ac52ca5392999ab462b3079edc9cd46c821638c8"
+    },
+    {
+      "path": "journeymap/data/mp/~ipv6~_6a786144~ae60~4d8a~b36c~aa00cfc3756f/overworld/topo/cache/r.1.-1.mca",
+      "hash": "ff78f325e3ef7c07d55c4a80b1a292ac0ca84838"
     },
     {
       "path": "journeymap/data/sp/新的世界/overworld/biome/-1,-1.png",
@@ -5186,6 +5234,10 @@
       "hash": "2c63515a9900fd7b4620c2ad5fdcba1bf4d3e948"
     },
     {
+      "path": "options.txt",
+      "hash": "f4c26a3cd68ef4dc8c8da003664ea1fa25f40c4e"
+    },
+    {
       "path": "patchouli_data.json",
       "hash": "231380073231d2812497b2be8d12dd38fef3ead8"
     },
@@ -5195,7 +5247,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
-      "hash": "b59f4b231926b556226376dcbbb4fdc7a03c3a5c"
+      "hash": "ed9873cfc8b2f058e6498af55b918b75e8a6c747"
     },
     {
       "path": "resourcepacks/PW.zip",
@@ -8583,7 +8635,7 @@
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.txt",
-      "hash": "89a50e6177db0203f9aff3bf9e891b606112bcb1"
+      "hash": "8a13cc42e617e3848ce089db196485cfecf3a87c"
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.4.zip",
